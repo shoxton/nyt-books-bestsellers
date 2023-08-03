@@ -1,6 +1,9 @@
 # NYT best sellers
 This application uses [NYT Books API](https://developer.nytimes.com/docs/books-product/1/overview) to present the best sellers ranking in a clean and practical way. Navigate between NYT-curated best sellers lists and keep track of each book's ranking history.
 
+### Demo
+![](https://github.com/shoxton/nyt-books-bestsellers/blob/main/demo.gif)
+
 ### Features
 - React (Vite)
 - Typescript
